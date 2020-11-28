@@ -1,2 +1,2 @@
-# RLEAlgorytmKompresjiBinar-w
-Wyszukiwanie i sortacja input użytkowniaka za pomocy RLE algorytmu
+# RLE Algorytm Kompresji Binarow
+Wyszukiwanie i sortacja danych wejściowych użytkowniaka za pomocy RLE algorytmu
