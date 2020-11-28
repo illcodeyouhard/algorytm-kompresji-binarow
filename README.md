@@ -6,6 +6,6 @@ Dane wejściowe:
 1101
 
 Dane wyjściowe:
-1[2]\n
-0[1]\n
-1[1]\n
+1[2]<br/>
+0[1]<br/>
+1[1]<br/>
