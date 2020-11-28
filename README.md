@@ -3,7 +3,7 @@ Wyszukiwanie i sortacja danych wejściowych użytkowniaka za pomocy RLE algorytm
 
 ### Wzór
 Dane wejściowe:<br/>
-1101
+1<br/>1<br/>0<br/>1
 
 Dane wyjściowe:<br/>
 1[2]<br/>
